@@ -1,3 +1,5 @@
 ex01
 
+README.md ? (voir Forum du cours)
+
 tres bien
